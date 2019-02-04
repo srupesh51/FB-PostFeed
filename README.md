@@ -1,12 +1,11 @@
 # I) FB-PostFeed
-# 1) Clone this project by giving git clone https://github.com/srupesh51/FB-PostFeed.git
-# 2) After this step cd into FB-PostFeed by doing 'cd FB-PostFeed'
-# 3) Then run 'npm install' to install npm dependencies for the server 
-# 4) After this Step cd into client by doing 'cd client'
-# 5) Then run 'npm install' to install npm dependencies for the client
-# 6) Now Move into previous directory(FB-PostFeed) by doing 'cd ../'
-# 7) Now simply do 'npm run dev' .    
-# 8) Do these above steps on command prompt
+# 1) cd into FB-PostFeed by doing 'cd FB-PostFeed'
+# 2) Then run 'npm install' to install npm dependencies for the server 
+# 3) After this Step cd into client by doing 'cd client'
+# 4) Then run 'npm install' to install npm dependencies for the client
+# 5) Now Move into previous directory(FB-PostFeed) by doing 'cd ../'
+# 6) Now simply do 'npm run dev' .    
+# 7) Do these above steps on command prompt
 
 
 # II) Technologies/Frameworks used for Completing this task :- 
