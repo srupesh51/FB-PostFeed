@@ -18,6 +18,6 @@
 # Firefox:- https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/
 
 
-# Please download Nodejs aong with npm packages :- https://nodejs.org/en/download/ from internet
+# Please download Nodejs along with npm packages :- https://nodejs.org/en/download/ from internet
 
-# Please note I have used table view for loading post feed instead of scrollView to make things simple
+# Please note I have used table view for loading post for this task feed instead of scrollView to make things simple
